@@ -10,6 +10,6 @@ add_subdirectory(chapter5)
 add_subdirectory(chapter6)
 
 
-add_executable(ch1solutions chapter1/ch1solutions/main.cpp)
+#add_executable(ch1solutions chapter1/ch1solutions/main.cpp)
 add_executable(ch1_main chapter1/chap1/ch1.cpp chapter1/chap1/ch1_main.cpp)
 add_executable(ch2_main chapter2/ch2solutions/ch2main.cpp)
