@@ -1,5 +1,5 @@
 /.idea/
-/cmake-build-debug/
+/cmake-build-*
 *.ipr
 *.iml
 *.iws
@@ -9,3 +9,4 @@ target/
 .settings/
 .project
 .classpath
+build
